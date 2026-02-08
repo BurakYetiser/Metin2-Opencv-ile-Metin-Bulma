@@ -1,8 +1,6 @@
 import numpy as np
 import win32gui, win32ui, win32con
 
-
-
 class WindowCapture:
     w = 0   
     h = 0
@@ -67,3 +65,4 @@ class WindowCapture:
 
     def get_screen_position(self, pos):
         return (pos[0] + self.offset_x, pos[1] + self.offset_y)
+    
