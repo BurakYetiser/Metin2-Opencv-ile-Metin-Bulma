@@ -43,5 +43,5 @@ Launcher üzerinden başlatılan oyunlarda dahi stabil çalışacak şekilde tas
 -Win32 API (imleç kontrolü)
 
 # ⚠️ Not
--Bu proje görüntü işleme pratiği amacıyla geliştirilmiştir.
--Bu proje python 3.11.9'la uyumlu çalışacak şekilde yazılmıştır.
+Bu proje görüntü işleme pratiği amacıyla geliştirilmiştir.
+Bu proje python 3.11.9'la uyumlu çalışacak şekilde yazılmıştır.
