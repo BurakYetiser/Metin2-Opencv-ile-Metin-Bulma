@@ -4,7 +4,7 @@ Bu bot, OpenCV tabanlı görüntü işleme kullanılarak geliştirilmiştir. Oyu
 Ekrandaki Metin Taşı isimlerini (nameplate) algılar, karakterin konumuna göre en uygun hedefi seçer ve imleci otomatik olarak hedef üzerinde sabitler. Metin yokken belirlenen tarama bölgelerinde bekleyerek yeni hedefleri aramaya devam eder.
 
 # Metin Ekleme
-Dosyalarda gördüğünüz .jpg uzantılı fotoğraflara uygun şekilde istediğiniz metinin fotoğrafını çekin. Yükleyin ve koyun. Koyduğunuz fotoğrafın adı neyse main'in içindeki TEMPLATES = [ ] kısmının içine koddaki gibi yazın.
+Dosyalarda gördüğünüz .jpg uzantılı fotoğraflara uygun şekilde istediğiniz metinin fotoğrafını çekin ve koyun. Koyduğunuz fotoğrafın adı neyse main'in içindeki TEMPLATES = [ ] kısmının içine koddaki gibi yazın.
 
 
 # Özellikler
